@@ -90,6 +90,3 @@ Expand dataset to include multilingual and age-diverse samples.
 Integrate real-time webcam handwriting capture.
 Add attention heatmaps for model explainability.
 Deploy as a full-stack web app with a feedback system.
-🙏 Credits
-Developed by: Al Thameez 
-Dataset Source: Kaggle ADHD Handwriting Dataset

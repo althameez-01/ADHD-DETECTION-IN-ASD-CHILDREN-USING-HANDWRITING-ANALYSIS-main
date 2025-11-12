@@ -61,8 +61,8 @@ Matplotlib	Visualization
 Streamlit (Optional)	Web-based UI (demo)
 🛠️ Installation
 1.	Clone the Repository
-git clone https://github.com/your-username/adhd-detection-handwriting.git
-cd adhd-detection-handwriting
+git clone https://github.com/althameez-01/ADHD-DETECTION-IN-ASD-CHILDREN-USING-HANDWRITING-ANALYSIS-main.git
+cd ADHD-DETECTION-IN-ASD-CHILDREN-USING-HANDWRITING-ANALYSIS-main
 ⚙️ Install Dependencies
 pip install -r requirements.txt
 ⚡ (Optional) Enable GPU Support
@@ -91,5 +91,5 @@ Integrate real-time webcam handwriting capture.
 Add attention heatmaps for model explainability.
 Deploy as a full-stack web app with a feedback system.
 🙏 Credits
-Developed by: YOGASATHYANDRUN R
+Developed by: Al Thameez 
 Dataset Source: Kaggle ADHD Handwriting Dataset
